@@ -1,0 +1,44 @@
+.list{
+    color: color;
+    font-size: 2rem;
+    list-style-type: none;
+    transition: 1s;
+    cursor: pointer;
+    user-select: none;
+    margin: 10px;
+}
+
+button{
+    outline: none;
+    background-color: transparent;
+    border: 1px solid black;
+    color: black;
+    font-size: 1.5rem;
+    cursor: pointer;
+    transition: 2s;
+}
+
+button:hover{
+    background-color:rgba(45, 45, 45, 0.5);
+    color: white;
+}
+
+.delete{
+    background-color: red;
+    height: fit-content;
+    font-size: 1rem !important;
+}
+
+input{
+    background-color: transparent;
+    border: none;
+    border-bottom: 1px solid black;
+    outline: none;
+    padding: 1rem;
+    margin-right: 1rem;
+}
+.list:hover{
+    margin-right: 20px;
+    margin: 15px;
+    transform: scale(1.2);
+}
