@@ -1,4 +1,4 @@
-## React JS TOdo App.
+## React JS To-do App.
 
 This App enables the user to enter tasks of his todo list and eact time user enters a task, it will be stored into the array.
 #### `this react app render the elements of that array onto the screen.`
